@@ -1,0 +1,186 @@
+.contentbanner{
+	background-image:url(../images/con_banner.jpg);
+	background-position:center;
+	height:519px;
+	margin:0 auto;
+
+	}
+.contenttop{
+	width:1000px;
+	height:20px;
+	border-bottom:1px solid #424242;
+	font-size:14px;
+	font-family:'微软雅黑';
+	padding-bottom:5px;
+	}
+.contenttop a:hover{
+	color:#ad0707;
+	font-size:16px;
+}
+
+.contenttop .mbx{
+	font-size:14px;
+	font-family:'微软雅黑';
+	color:#434343;
+	}
+
+.zhongjian{
+	width:1000px;
+	margin:auto;
+	}
+
+.zhongjian .first{
+	width:1000px;
+	height:225px;
+}
+.zhongjian .first .tw{
+	margin-top:17px;
+}
+
+.zhongjian .first .tw img{
+	float:left;
+}
+.zhongjian .first .tw #zi{
+	width:690px;
+	height:178px;
+	margin-left:10px;
+	float:left;
+	font-family: "微软雅黑";
+}
+.zhongjian .first .tw #zi h1{
+	padding-left:35px;
+	padding-top:0px;
+	float:left;
+	font-size:18px;	
+	color:#232323;
+	font-weight:500;
+	font-family:"微软雅黑";
+}
+.zhongjian .first .tw #zi p{
+	width:690px;
+	overflow: hidden;
+	line-height: 25px;
+    color:#565656;
+    padding-top:13px;
+    font-size:15px;
+    font-family:'微软雅黑';
+    color:#828282;
+}
+
+#zi .theme{
+ 	width:690px;
+ 	height:50px;
+ 	clear:both;
+ 	}
+.zhongjian #time{
+ 	color:#b6b6b6;
+	font-size:14px;
+	font-family: "微软雅黑";
+	float:left;
+	display:block;
+	float:left;
+	width:250px;
+	height:20px;
+	margin-top:15px;
+}
+#zi .theme a{
+	display:block;
+	width:92px;
+	height:25px;
+	float:left;
+	margin-left:344px;
+	border:1px solid #ff2b2d;
+	margin-top:10px;
+	text-align:center;
+	line-height:25px;
+	color:#f69562;
+	font-size:13px;
+	font-family:'微软雅黑';
+	}
+
+ .sec .theme{	
+ 	width:1000px;
+ 	height:50px;
+ 	clear:both;
+ }
+.sec .theme a{
+	display:block;
+	width:92px;
+	height:25px;
+	float:left;
+	margin-left:654px;
+	border:1px solid #ff2b2d;
+	margin-top:10px;
+	text-align:center;
+	line-height:25px;
+	color:#f69562;
+	font-size:13px;
+	font-family:'微软雅黑';
+	}
+.theme a:hover{background-color:#e7e5e6;}
+
+.zhongjian .sec {
+	clear:both;
+	margin-top:15px;
+ width:1000px;
+}
+.zhongjian .sec h1{
+    margin:0px;
+    padding:0px;
+    padding-top:20px;
+	font-size:18px;	
+	color:#232323;
+	font-weight:500;
+}
+.zhongjian .sec p{
+	width:1000px;
+	overflow: hidden;
+	line-height: 25px;
+    color:#565656;
+    padding-top:13px;
+    font-family: "微软雅黑";
+    font-size:15px;
+    color:#828282;
+}
+
+
+
+
+.page{
+	width:1000px;
+	height:50px;
+	border-top:1px solid #6e6a6b;
+	float:left;
+	margin-top:50px;
+	margin-bottom:40px;
+	}
+.page ul{
+	float:right;
+	margin-top:13px;
+	}
+.page li{
+		display:inline;
+	}
+
+.page a{
+	display:block;
+	width:62px;
+	height:32px;
+	float:left;
+	font-size:14px;
+	font-family:'微软雅黑';
+	color:#908e8f;
+	line-height:26px;
+	text-align:center;	
+	}
+.page a:hover{
+	background-color:#f86b11;
+	color:#faf4f6;
+	}
+.page #edge{
+		background-color:#ffffff;
+		border:solid #e4333d 1px;
+		height:30px;
+		color:#fb6003;
+		}
+.page #edge:hover{background-color:#e7e5e6;}

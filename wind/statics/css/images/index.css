@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	list-style:none;
+}
+.content{
+	overflow:atuo;
+}
+.how{
+	text-align:center;
+}
+.middle{
+	margin-left:200px;
+}
+.content1{
+	float:left；
+}
+.line{
+	background-color: red;
+	height:500px;
+}

@@ -1,0 +1,109 @@
+.dengluyemian{
+	width: 100%;
+	height: 487px;
+	float: left;
+	display: inline;
+	background-position:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+.banner{
+	background-image:url(../images/baner_bg.png);
+	background-position:top;
+	height:519px;
+	}
+.dengluconnect{
+	width:1000px;
+	height:519px;
+	margin:auto;
+	padding-top:27px;
+	}
+.dlbt{
+	height:50px;
+	font-family:"微软雅黑";
+	font-size:22px;
+	margin-top:115px;
+	color:#021f31;
+	font-weight:700;
+	padding-left:463px;
+	line-height:42px;
+	}
+.listdenglukuang{
+	width:400px;
+	height:300px;
+	margin:auto;
+	}
+.every{
+	width:400px;
+	height:80px;
+	clear:both;
+	float:left;
+	}
+.yonghuming{
+	padding-left:55px;
+	color:#4b565a;
+	font-family:"微软雅黑";
+	font-size:16px;
+	}
+.every input{
+	margin-left:68px;
+	margin-top:6px;
+	width:293px;
+	height:44px;
+	background-color:#7b9fe9;
+	border-radius:10px;
+	}
+.miandenglu{
+	clear:both;
+	float:left;
+	width:400px;
+	height:22px;
+	margin-top:12px;
+	}
+.mian{
+	width:88px;
+	height:22px;
+	margin-left:67px;
+	float:left;
+	}
+.miandenglu input{
+	width:15px;
+	height:15px;
+	display:block;
+	float:left;
+	background-color:#9f9f9f;
+	}
+.miandenglu span{
+	color:#0b0a08;
+	display:block;
+	float:left;
+	margin-left:5px;
+	font-weight:500;
+	font-family:"微软雅黑";
+	}
+.wangji{
+	width:80px;
+	height:22px;
+	float:left;
+	margin-left:141px;
+	font-family:"微软雅黑";
+	color:#fb7538;
+	font-size:14px;
+	}
+.querendenglu{
+	width:400px;
+	height:50px;
+	clear:both;
+	float:left;
+	margin-top:20px;
+	}
+.querendenglu input{
+	width:293px;
+	height:50px;
+	background-color:#f99563;
+	border-radius:10px;
+	font-size:19px;
+	font-family:"微软雅黑";
+	color:#f8f8f6;
+	margin-left:70px;
+	}
