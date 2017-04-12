@@ -1,7 +1,7 @@
 # wind
 旋风教育，参加了河北省创新创业大赛，在微信投票中获得了500多票的成绩。
 <p>首页</p>
-![](https://github.com/twr2016/wind/blob/master/photo/index1.png?raw=true)
+![](https://github.com/twr2016/wind/raw/master/photo/index1.png?raw=true)
 <p>首页</p>
 ![](https://github.com/twr2016/wind/blob/master/photo/index2.png?raw=true)
 <p>首页</p>
